@@ -1,5 +1,9 @@
-Simple example Backbone server side
+##Simple example Backbone server side
 
-Run npm install
+##Usage
 
-Run bower install
+Run 
+```sh
+npm install
+bower install
+```
